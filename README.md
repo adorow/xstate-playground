@@ -24,6 +24,14 @@ Source: [xstate](https://xstate.js.org/docs/tutorials/7guis/counter.html#modelin
 
 Code [here](./7guis-1-counter).
 
+### 7GUIs - Temperature
+
+An implementation of [7GUIs]' temperature.
+
+Source: [xstate](https://xstate.js.org/docs/tutorials/7guis/temperature.html#modeling)
+
+Code [here](./7guis-2-temperature).
+
 [7guis]: https://eugenkiss.github.io/7guis/
 
 
