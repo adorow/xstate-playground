@@ -20,7 +20,7 @@ Code [here](./reddit-react-app).
 
 An implementation of [7GUIs]' counter.
 
-Source: [xstate](https://xstate.js.org/docs/tutorials/7guis/counter.html#modeling)
+Source: [xstate](https://xstate.js.org/docs/tutorials/7guis/counter.html)
 
 Code [here](./7guis-1-counter).
 
@@ -28,9 +28,27 @@ Code [here](./7guis-1-counter).
 
 An implementation of [7GUIs]' temperature.
 
-Source: [xstate](https://xstate.js.org/docs/tutorials/7guis/temperature.html#modeling)
+Source: [xstate](https://xstate.js.org/docs/tutorials/7guis/temperature.html)
 
 Code [here](./7guis-2-temperature).
+
+[7guis]: https://eugenkiss.github.io/7guis/
+
+### 7GUIs - Flight Booker
+
+An implementation of [7GUIs]' flight booker.
+
+Source: [xstate](https://xstate.js.org/docs/tutorials/7guis/flight.html)
+
+Code [here](./7guis-3-flightbooker).
+
+### 7GUIs - Timer
+
+An implementation of [7GUIs]' timer.
+
+Source: [xstate](https://xstate.js.org/docs/tutorials/7guis/timer.html)
+
+Code [here](./7guis-4-timer).
 
 [7guis]: https://eugenkiss.github.io/7guis/
 
