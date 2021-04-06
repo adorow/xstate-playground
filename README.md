@@ -50,6 +50,20 @@ Source: [xstate](https://xstate.js.org/docs/tutorials/7guis/timer.html)
 
 Code [here](./7guis-4-timer).
 
+### Counter (with increment and decrement)
+
+An implementation of a counter with increment and decrement functions.
+
+Source: [xstate](https://xstate.js.org/docs/examples/counter.html#modeling-min-and-max)
+
+Code [here](./counter-inc-dec)
+
+### Calculator
+
+An implementation of a calculator.
+
+Source: [xstate](https://xstate.js.org/docs/examples/calculator.html#react)
+
+Code [here](./calculator)
+
 [7guis]: https://eugenkiss.github.io/7guis/
-
-
